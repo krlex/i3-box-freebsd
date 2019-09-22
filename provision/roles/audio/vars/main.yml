@@ -1,4 +1,3 @@
 ---
 audio_packages:
   - name: audacious
-  - name: normalize
