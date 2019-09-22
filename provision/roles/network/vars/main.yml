@@ -1,0 +1,5 @@
+---
+network_packages:
+  - name: nmap
+  - name: sshpass
+  - name: wpa_supplicant_gui

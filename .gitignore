@@ -1,0 +1,10 @@
+*.pyc
+vagrant_ansible_inventory_*
+.vagrant/
+.ropeproject/
+*.box
+*.log
+*.retry
+*.swp
+packer_cache
+output-virtualbox-iso

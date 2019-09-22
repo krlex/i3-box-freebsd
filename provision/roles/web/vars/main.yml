@@ -1,0 +1,4 @@
+---
+web_packages:
+  - name: firefox
+  - name: rtorrent

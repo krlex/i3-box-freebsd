@@ -1,0 +1,7 @@
+---
+util_packages:
+  - name: keepassxc
+  - name: inotify-tools
+  - name: pv
+  - name: the_silver_searcher
+  - name: unzip

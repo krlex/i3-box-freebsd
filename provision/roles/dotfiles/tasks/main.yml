@@ -1,0 +1,13 @@
+---
+
+- name: git repos
+  with_items: "{{ git_repos }}"
+  git:
+    repo: "{{ item.repo }}"
+    dest: "~{{ user }}/repos/{{ item.dest }}"
+    update: no
+
+- name: dotfiles init configuration of programs
+  become: yes
+  command: "~{{ user }}/repos/dotfiles/init.sh"
+

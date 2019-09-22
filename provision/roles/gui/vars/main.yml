@@ -1,0 +1,16 @@
+---
+gui_packages:
+  - name: arandr
+  - name: dunst
+  - name: evince
+  - name: i3
+  - name: i3status
+  - name: quiterss
+  - name: rofi
+  - name: rxvt-unicode
+  - name: slim
+  - name: slock
+  - name: unclutter
+  - name: xautolock
+  - name: xorg
+  - name: webcamd

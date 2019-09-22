@@ -1,0 +1,5 @@
+---
+
+git_repos:
+  - repo: "https://github.com/krlex/dotfiles"
+    dest: "dotfiles"

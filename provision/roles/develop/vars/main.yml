@@ -1,0 +1,8 @@
+---
+develop_packages:
+  - name: cmake
+  - name: gist
+  - name: git-lite
+  - name: grub2-bhyve
+  - name: python
+  - name: vim
